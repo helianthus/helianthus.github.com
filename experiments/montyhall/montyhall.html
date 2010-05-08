@@ -1,0 +1,33 @@
+---
+layout: base
+title: Monty Hall Problem
+---
+
+<style>
+html { font-family: sans-serif; height: 100%; -webkit-user-select: none; -moz-user-select: none; }
+body { margin: 0 auto; width: 300px; }
+#game { overflow: hidden; text-align: center; margin: 20px 0; }
+#reset{ display: none; margin-left: 5px; }
+#doors div { float: left; margin: 5px; border: 1px solid black; width: 88px; height: 150px; line-height: 150px; cursor: pointer; }
+#times { width: 40px; }
+#footer { text-align: right; font-size: 75%; }
+</style>
+
+<div id="game">
+  <p>
+  	<span id="msg">Choose a door</span><button id="reset">again</button>
+  </p>
+  <div id="doors">
+    <div>A</div>
+    <div>B</div>
+    <div>C</div>
+  </div>
+ <button id="autoplay">Play</button> <input id="times" value="1000" /> times with choice keeping
+</div>
+<dl>
+  <dt>Win/Total:</dt>
+  <dd id="wins">0/0</dd>
+  <dt>Chance of winning if change:</dt>
+  <dd id="chance">0/0</dd>
+</dl>
+<p id="footer">By <a href="http://forum1.hkgolden.com/ProfilePage.aspx?userid=148720">向日葵</a>@<a href="http://forum1.hkgolden.com/">HKGolden Forum</a></p>
