@@ -22,7 +22,7 @@ Works
 
 - [Helianthus.bolanderi][]
 
-  A userscript / browser extension framework, orginially created for [Helianthus.annuus][], but can be used to build extensions for any kind of web sites as well.
+  A userscript / browser extension framework, originally created for [Helianthus.annuus][], but can be used to build extensions for any kind of web sites as well.
 
 - Some [random experiments](/experiments/)
 
