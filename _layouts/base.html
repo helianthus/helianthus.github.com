@@ -4,7 +4,7 @@
 <meta charset="utf-8" />
 <title>{{ page.title }}</title>
 {% for path in page.css %}
-<link type="stylesheet" href="{{ path }}" />
+<link rel="stylesheet" href="{{ path }}" />
 {% endfor %}
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 {% for path in page.js %}
