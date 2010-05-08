@@ -29,7 +29,7 @@ $(function() {
       }
 
       jDoors.eq(clicked).addClass('selected');
-      $('#msg').text('Keep ' + doors[clicked] + ' or change to ' + doors[remains.splice(clicked !== gold ? (gold === choices[0] : 0 : 1) : ~~(Math.random() * 2), 1)] + '?');
+      $('#msg').text('Keep ' + doors[clicked] + ' or change to ' + doors[remains.splice(clicked !== gold ? (gold === remains[0] : 0 : 1) : ~~(Math.random() * 2), 1)] + '?');
       jDoors.eq(remains[0]).addClass('removed');
     },
 
