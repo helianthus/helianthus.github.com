@@ -3,7 +3,7 @@ layout: base
 title: Project.Helianthus
 ---
 
-Project.helianthus
+Project.Helianthus
 ==================
 
 About
