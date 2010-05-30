@@ -16,7 +16,7 @@ About
 Works
 -----
 
-- [Helianthus.annuus][]
+- [Helianthus.annuus][] ([source][annuus source])
 
   A userscript / browser extension for HKGolden Forum. As of v4, it is built on top of [Helianthus.bolanderi][].
 
@@ -26,7 +26,8 @@ Works
 
 - Some [random experiments](/experiments/)
 
-[Helianthus.annuus]: http://github.com/helianthus/Helianthus.annuus
+[Helianthus.annuus]: http://helianthus-annuus.appspot.com/
+[annuus source]: http://github.com/helianthus/Helianthus.annuus
 [Helianthus.bolanderi]: http://github.com/helianthus/Helianthus.bolanderi
 
 Future Plans
