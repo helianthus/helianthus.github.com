@@ -18,17 +18,22 @@ Works
 
 - [Helianthus.annuus][] ([source][annuus source])
 
-  A userscript / browser extension for HKGolden Forum. As of v4, it is built on top of [Helianthus.bolanderi][].
+  A userscript / browser extension for HKGolden Forum. As of v4, it is built on top of Helianthus.bolanderi.
 
-- [Helianthus.bolanderi][]
+- Helianthus.bolanderi
 
   A userscript / browser extension framework, originally created for [Helianthus.annuus][], but can be used to build extensions for any kind of web sites as well.
+
+- [Helianthus.cilliaris][]
+
+  HKGolden forum status checking extension.
 
 - Some [random experiments](/experiments/)
 
 [Helianthus.annuus]: http://helianthus-annuus.appspot.com/
 [annuus source]: http://github.com/helianthus/Helianthus.annuus
 [Helianthus.bolanderi]: http://github.com/helianthus/Helianthus.bolanderi
+[Helianthus.cilliaris]: http://github.com/helianthus/Helianthus.cilliaris
 
 Future Plans
 ------------
